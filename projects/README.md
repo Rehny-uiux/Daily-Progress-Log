@@ -9,11 +9,33 @@ A UI/UX project focused on helping learners discover courses, understand course 
 - Focus: User research, user journeys, information architecture, wireframes, and prototyping
 - Status: In progress
 
-## 2. Headphone Landing Page
-A product landing-page concept focused on visual hierarchy, typography, and product presentation.
 
-- Tool: Figma
-- Status: Design practice
+## 2. Headphone Landing Page — Product Visual Design
+
+A product landing page visual concept created to practice visual hierarchy, typography, contrast, product presentation, and feature communication.
+
+- **Category:** Product Landing Page Design
+- **Tool: Canva**
+- **Focus:** Typography, layout, visual hierarchy, contrast, and product feature presentation
+- **Deliverable:** PNG design export
+- **Status:** Visual design practice
+
+### Design Preview
+
+
+
+### Key Design Elements
+
+- Bold headline and clear product emphasis
+- High-contrast dark background with lavender accents
+- Product benefits and feature highlights
+- Structured layout with warranty and feature information
+
+### Learning Outcome
+
+Practiced presenting product information through typography, contrast, spacing, and a clear visual hierarchy.
+![Headphone Landing Page](Headphone%20Landing%20Page%20%E2%80%94%20UI%20Design.png)
+
 
 ## 3. Weather App
 A mobile UI concept for presenting weather information clearly and consistently.
