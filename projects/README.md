@@ -42,6 +42,18 @@ A mobile UI concept for presenting weather information clearly and consistently.
 
 - Tool: Figma
 - Status: Design practice
+- **Category:** Mobile App UI Design
+- **Screens:** Onboarding, Weather Dashboard, and Forecast
+- **Design Focus:** Visual hierarchy, typography, color consistency, and weather information presentation
+- **Deliverables:** Three individual PNG screen exports
+- **Status:** Design practice completed
 
+### Design Previews
+
+![Weather App Onboarding](Weather-App-Onboarding.png.png)
+
+![Weather App Dashboard](Weather-App-Dashboard.png.png)
+
+![Weather App Forecast](Weather-App-Forecast.png.png)
 ## Project Evidence
 Screenshots and Figma links will be added as each project is documented.
